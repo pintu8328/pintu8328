@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Redux**
 
-- 👨‍💻 All of my projects are available at [portfolio](pintu-gouda.netlify.app)
+- 👨‍💻 All of my projects are available at [pintu-gouda.netlify.app](pintu-gouda.netlify.app)
 
 - 💬 Ask me about **Html,css,javascript,react**
 
