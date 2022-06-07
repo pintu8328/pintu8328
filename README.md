@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Redux**
 
-- 👨‍💻 All of my projects are available at [portpolio](https://cozy-beignet-118678.netlify.app/)
+- 👨‍💻 All of my projects are available at [portpolio](https://tiny-bublanina-5c2aa2.netlify.app)
 
 - 💬 Ask me about **Html,css,javascript,react**
 
