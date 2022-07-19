@@ -20,12 +20,12 @@
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 
 <p>📫 How to reach me-<a href="pintugouda1591998@gmail.com">Gmail</a><br/>
-  Portfolio :-   <a href="https://ramakrushna12.netlify.app/"> https://pintu-gouda.netlify.app/</a>
-<p>Know about my experiences :- <a href="https://docs.google.com/document/d/1LwMFH-Y__SI2u8ge29cSPJk_pf5QhXs13D2I0EbzAMg/edit?usp=sharing">Resume</a></p>
+  Portfolio :-   <a href="https://pintu-gouda.netlify.app/"> https://pintu-gouda.netlify.app/</a>
+<p>Know about my experiences :- <a href="https://drive.google.com/file/d/18dpUVU1-Y9g0rxLwsC9p-cM5Eyj6pIun/view?usp=sharing">Resume</a></p>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pintuu_98/?hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-krushna-panda-0b10a6235/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pintu-gouda-935231237/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://account.squarespace.com/) 
 
 # 💻Tech Stack
