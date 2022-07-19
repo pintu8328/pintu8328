@@ -1,4 +1,4 @@
-<h1 align="center";color="teal">Rama Krushna Panda</h1>
+<h1 align="center";color="teal">Pintu Gouda</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Software+Engineer;)](https://git.io/typing-svg)
 
@@ -19,12 +19,12 @@
 ![living](https://img.shields.io/badge/living-Hinjilicut,Odisha-Ganjam)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 
-<p>📫 How to reach me-<a href="ramakrushnapanda634@gmail.com">Gmail</a><br/>
-  Portfolio :-   <a href="https://ramakrushna12.netlify.app/"> https://ramakrushna12.netlify.app/</a>
+<p>📫 How to reach me-<a href="pintugouda1591998@gmail.com">Gmail</a><br/>
+  Portfolio :-   <a href="https://ramakrushna12.netlify.app/"> https://pintu-gouda.netlify.app/</a>
 <p>Know about my experiences :- <a href="https://docs.google.com/document/d/1LwMFH-Y__SI2u8ge29cSPJk_pf5QhXs13D2I0EbzAMg/edit?usp=sharing">Resume</a></p>
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ramakrushna6/?hl=en)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pintuu_98/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-krushna-panda-0b10a6235/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://account.squarespace.com/) 
 
