@@ -51,6 +51,6 @@
 </p>
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ramakrushnapanda634&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramakrushnapanda634&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pintu8328&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pintu8328&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramakrushnapanda634&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
