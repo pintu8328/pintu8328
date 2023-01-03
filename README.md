@@ -12,7 +12,7 @@
     👀 Interested in problem solving and data analytics and manipulation
     😂 Also having a great sense of humour with additional touch of memeing..
     😎 Love Cricket and Watching the movies for sometimes
-    📫 How to reach me -> drop me a mail at ramakrushnapanda634@gmail.com
+    📫 How to reach me -> drop me a mail at pintugouda1591998@gmail.com
     ❤️ You can ping me at LinkedIn
     
 <!-- ![living](https://img.shields.io/badge/living-Chandrapur,Maharashtra-maroon) -->
