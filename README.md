@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *MERN Stacks, Data Structures & Algorithms.*
 
-- 👨‍💻 My Portfolio[ https://pintu-gouda.netlify.app/](https://pintu8328.github.io/)
+- 👨‍💻 My Portfolio[ https://pintu8328.github.io/ ](https://pintu8328.github.io/)
 
 - 💬 Ask me about *JavaScript, React, Express & MongoDB.*
 
